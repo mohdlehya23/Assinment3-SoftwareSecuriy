@@ -1,0 +1,6 @@
+*.pptx
+*.pdf
+__pycache__/
+*.pyc
+generate_assignment3_docx.py
+Software_Security_Assignment_Ch3_Solutions.docx
